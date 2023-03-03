@@ -1,0 +1,155 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "table": [
+    {
+      "name": "viren",
+      "address": "valsad",
+      "id": 1
+    },
+    {
+      "name": "Kenal",
+      "address": "valsad",
+      "id": 2
+    },
+    {
+      "name": "raj",
+      "address": "Navsari",
+      "id": 3
+    }
+  ],
+  "employee": [
+    {
+      "name": "Viren",
+      "description": "dsfdsfnlkf pcojdsjdsjv sodpjdsofjsdpofjspfjdspojfdpsjdpsojfdsjfdsjfdjfkjdlkfdslksdlkdslkfjs",
+      "status": "inactive",
+      "rate": "56",
+      "balance": "56",
+      "deposite": "56",
+      "id": 2
+    },
+    {
+      "name": "VirenpATW",
+      "description": "dsfdsfnlkf pcojdsjdsjv sodpjdsofjsdpofjspfjdspojfdpsjdpsojfdsjfdsjfdjfkjdlkfdslksdlkdslkfjs",
+      "status": "inactive",
+      "rate": "56",
+      "balance": "56",
+      "deposite": "56",
+      "id": 4
+    },
+    {
+      "name": "Viren",
+      "description": "dsfdsfnlkf pcojdsjdsjv sodpjdsofjsdpofjspfjdspojfdpsjdpsojfdsjfdsjfdjfkjdlkfdslksdlkdslkfjs",
+      "status": "inactive",
+      "rate": "56",
+      "balance": "56",
+      "deposite": "56",
+      "id": 1
+    },
+    {
+      "name": "dddd",
+      "description": "dcddd",
+      "status": "inactive",
+      "rate": "454",
+      "balance": "454",
+      "deposite": "454",
+      "id": 2
+    },
+    {
+      "name": "Viren",
+      "description": "dsfdsfnlkf pcojdsjdsjv sodpjdsofjsdpofjspfjdspojfdpsjdpsojfdsjfdsjfdjfkjdlkfdslksdlkdslkfjs",
+      "status": "inactive",
+      "rate": "56",
+      "balance": "56",
+      "deposite": "56",
+      "id": 3
+    },
+    {
+      "name": "dddd",
+      "description": "dcddd",
+      "status": "inactive",
+      "rate": "454",
+      "balance": "454",
+      "deposite": "454",
+      "id": 4
+    },
+    {
+      "name": "Viren",
+      "description": "dsfdsfnlkf pcojdsjdsjv sodpjdsofjsdpofjspfjdspojfdpsjdpsojfdsjfdsjfdjfkjdlkfdslksdlkdslkfjs",
+      "status": "inactive",
+      "rate": "56",
+      "balance": "56",
+      "deposite": "56",
+      "id": 1
+    },
+    {
+      "name": "dddd",
+      "description": "dcddd",
+      "status": "inactive",
+      "rate": "454",
+      "balance": "454",
+      "deposite": "454",
+      "id": 2
+    },
+    {
+      "name": "Viren",
+      "description": "dsfdsfnlkf pcojdsjdsjv sodpjdsofjsdpofjspfjdspojfdpsjdpsojfdsjfdsjfdjfkjdlkfdslksdlkdslkfjs",
+      "status": "inactive",
+      "rate": "56",
+      "balance": "56",
+      "deposite": "56",
+      "id": 3
+    },
+    {
+      "name": "dddd",
+      "description": "dcddd",
+      "status": "inactive",
+      "rate": "454",
+      "balance": "454",
+      "deposite": "454",
+      "id": 4
+    },
+    {
+      "name": "fdgfdg",
+      "description": "rgrdg",
+      "status": "inactive",
+      "rate": "25",
+      "balance": "25",
+      "deposite": "25",
+      "id": 5
+    },
+    {
+      "name": "fdgdffg",
+      "description": "fghfg",
+      "status": "error",
+      "rate": "56",
+      "balance": "56",
+      "deposite": "56",
+      "id": 6
+    },
+    {
+      "name": "VirenPatel",
+      "description": "RTHTR",
+      "status": "open",
+      "rate": "25",
+      "balance": "25",
+      "deposite": "25",
+      "id": 7
+    }
+  ]
+}
