@@ -13,11 +13,13 @@
 <body>
     <section class="container">
         <header class="header">
-            <select name="" id="" class="filter">
-                <option value="all"> Filter</option>
-                <option value="all"> Filter</option>
-            </select>
-            <button id="add-butto" class="add-butto flex item-center"><img src="./assests/add.png" alt="add-logo"
+            <div class="filter-div">
+                <img src="./assests/filter.png" alt="" srcset="" class="filter-logo">
+                <select name="" id="filter" class="filter">
+                    <option value="all" selected> Filter</option>
+                </select>
+            </div>
+            <button id="add-button" class="add-button flex item-center"><img src="./assests/add.png" alt="add-logo"
                     class="add-img"><span class="add-text">Add Employee</span></button>
         </header>
         <form id="form">
@@ -50,6 +52,8 @@
             <div class="form-buttons">
                 <button class="cancel-button" id="cancel-button"><span class="cancel-text">Cancel</span>
                 </button><button class="save-button ml-20" id="save-button"><span class="save-text">Save</span></button>
+                <button class="update-button ml-20" id="update-button" disabled="disabled"><span
+                        class="update-text">Update</span></button>
             </div>
         </form>
 
