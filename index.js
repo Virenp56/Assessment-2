@@ -164,6 +164,7 @@ function editEmployee(empData) {
         let rate = document.getElementById("rate").value;
         let balance = document.getElementById("balance").value;
         let deposite = document.getElementById("deposite").value;
+
         let updatedEmpData = {
             name: name,
             description: description,
@@ -172,6 +173,7 @@ function editEmployee(empData) {
             balance: balance,
             deposite: deposite
         };
+
         fetch(`http://localhost:3000/employee/${empData.id}`, {
             method: 'PUT',
             headers: {
